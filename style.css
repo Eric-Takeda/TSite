@@ -243,9 +243,7 @@ td:last-child {  /*Td que recebe o conteúdo, no caso, apenas na última td*/
 
 @media screen and (max-width: 768px) {
 
-  .menu-mobile {
-    display: block;
-  }
+
 
   table {
     display: block;
