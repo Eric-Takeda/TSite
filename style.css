@@ -289,10 +289,11 @@ td:last-child {  /*Td que recebe o conteúdo, no caso, apenas na última td*/
 
   .botao {
     width: 95%;
-    padding: 22px 0;
+    padding: 22px 40px;
   }
 
   .cadastro {
     width: 95%;
   }
 }
+
